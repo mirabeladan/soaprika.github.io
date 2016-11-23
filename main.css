@@ -19,10 +19,17 @@
 	background-image: url('images/background.jpg');
 	background-size: cover;
 	background-attachment: fixed;
+	margin: 0px;
 }
-#mission {
-	background-color: rgba(32,35,41,0.9);
-	color: #ddd;
+#images {
+	background-color: #292138;
+}
+#images h2 {
+	color: white;
+}
+#contact {
+	background-color: #521A1F;
+	color: white;
 	padding-bottom: 40px;
 }
 .navbar-inverse {
