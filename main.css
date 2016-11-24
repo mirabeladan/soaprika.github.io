@@ -40,8 +40,21 @@
 }
 #contact {
 	background-color: #521A1F;
-	color: black;
+	color: white;
 	padding-bottom: 40px;
+}
+#name {
+	color: #292138;
+
+}
+#email {
+		color: #292138;
+}
+#message {
+			color: #292138;
+}
+#submit_button
+{color: #292138;
 }
 .navbar-inverse {
 	background: rgba(32,35,41,0.8);
